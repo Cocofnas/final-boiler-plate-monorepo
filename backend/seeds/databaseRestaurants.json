@@ -4650,7 +4650,128 @@
   ],
   "description": "Ruths is that place you walk by and think this looks nice and you walk in and feel the atmosphere. Besides from serving lovely food they also serve coffee and a mean basque cheesecake. They also have a small deli with cheeses, veggies, and other stuff you can buy home. During summertime you have the option of sitting in their lovely courtyard",
   "url": "https://ruthsmalmo.se/"
+},
+{
+  "restaurantID": "126",
+  "restaurantName": "Mama Wolf",
+  "address": "Krukmakargatan 1",
+  "zipcode": "11851",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "borough": "Södermalm",
+  "cuisine": "Japanese",
+  "category": ["Business", "Date", "Family", "Friends", "Other"],
+  "occasion": [
+    "Have dinner with kids present",
+    "Have dinner with your bestie",
+    "Have dinner with friends to catch up",
+    "Say Cheers- a classic Swedish after work",
+    "Have dinner with colleagues",
+    "Have dinner with the whole family",
+    "Have dinner with your parents",
+    "Impress your date on a tight budget",
+    "Have a meparty aka dinner for one",
+    "Go on a nice date with that special someone"
+  ],
+  "mood": [
+    "Cozy",
+    "Good lighting",
+    "Bustling",
+    "Casual",
+    "Family friendly",
+    "Homely",
+    "Kid friendly",
+    "Dog friendly",
+    "Vegan option"
+  ],
+  "description": "A really small genuine japanese place where they serve amazing rice bowls. On the menu the also have onigiri (which are magic if you are lucky enough to find a rel tasty one) and an assortment of japanese beer.",
+    "url": "https://mamawolf.nu/"
+},
+{
+  "restaurantID": "127",
+  "restaurantName": "Julie Vinbar",
+  "address": "Tegelgårdsgatan 9",
+  "zipcode": "21133",
+  "city": "Malmö",
+  "country": "Sweden",
+  "borough": "Gamla staden",
+  "cuisine": "French and scandinavian",
+  "category": ["Business", "Celebration", "Date", "Family", "Friends", "Other"],
+  "occasion": [
+    "Have dinner with the in-laws",
+    "Have dinner with your bestie",
+    "Have dinner with friends to catch up",
+    "Say Cheers- a classic Swedish after work",
+    "Have dinner with colleagues",
+    "Have dinner with your parents",
+    "Celebrate a relationship anniversary",
+    "Celebrate you turning 28 again (honey, you ain't fooling anyone)",
+    "Have a meparty aka dinner for one",
+    "Go on a nice date with that special someone"
+  ],
+  "mood": [
+    "Cozy",
+    "Good lighting",
+    "Soft-spoken",
+    "Intimate",
+    "Casual",
+    "Family friendly",
+    "Homely",
+    "Kid friendly",
+    "Dog friendly",
+    "Calm",
+    "Vegan option",
+    "Romantic"
+  ],
+  "description": "Julie Vinbar is one of those places that you could easily just pass by, but when you do step in you are met by fridges with chees and charkuteries. The kitchen is set among the guests making it a really intimate setting. During the summer their small courtyard is open, and it's so cozy. Order in a glass of wine, or why not a non- alcoholic drink accompanied with their assortment of small dishes. You can also do some shopping if you want to take some cheese or anything else with you home",
+  "url": "https://juliemalmo.se/"
+},
+{
+  "restaurantID": "128",
+  "restaurantName": "Freyja + Söder",
+  "address": "Hornsgatan 18",
+  "zipcode": "11820",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "borough": "Södermalm",
+  "cuisine": "Scandinavian",
+  "category": ["Business", "Celebration", "Date", "Family", "Friends", "Other"],
+  "occasion": [
+    "Have dinner with the in-laws",
+    "Have a sunday funday aka brunch",
+    "Have dinner with kids present",
+    "Have dinner with your bestie",
+    "Have dinner with friends to catch up",
+    "Say Cheers- a classic Swedish after work",
+    "Have dinner with colleagues",
+    "Have dinner with the whole family",
+    "Have dinner with your parents",
+    "Impress your date and the sky is the limit",
+    "Celebrate a relationship anniversary",
+    "Celebrate you turning 28 again (honey, you ain't fooling anyone)",
+    "Have a meparty aka dinner for one",
+    "Go on a nice date with that special someone"
+  ],
+  "mood": [
+    "Cozy",
+    "Good lighting",
+    "Soft-spoken",
+    "Bustling",
+    "Intimate",
+    "Sophisticated",
+    "Family friendly",
+    "Homely",
+    "Kid friendly",
+    "Dog friendly",
+    "Calm",
+    "Vegan option",
+    "Extended dining hours",
+    "Romantic"
+  ],
+  "description": "This is for the restaurant part, they also have the bar part Söder with amazing views over all of Stockholm. The restaurant Freyja is on top floor with views all over Stockholm. A really calm atmosphere and great food with a scandinavian twist",
+  "url": "https://freyjasoder.se/"
 }
+
 
 ]
 
